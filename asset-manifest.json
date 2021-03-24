@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/juichu/static/css/main.f5497eb8.chunk.css",
-    "main.js": "/juichu/static/js/main.5c416b8f.chunk.js",
-    "main.js.map": "/juichu/static/js/main.5c416b8f.chunk.js.map",
-    "runtime-main.js": "/juichu/static/js/runtime-main.d4467a7f.js",
-    "runtime-main.js.map": "/juichu/static/js/runtime-main.d4467a7f.js.map",
-    "static/js/2.19e99e5d.chunk.js": "/juichu/static/js/2.19e99e5d.chunk.js",
-    "static/js/2.19e99e5d.chunk.js.map": "/juichu/static/js/2.19e99e5d.chunk.js.map",
-    "index.html": "/juichu/index.html",
-    "precache-manifest.d1adc2b0c869de813783e35d4ac9aeae.js": "/juichu/precache-manifest.d1adc2b0c869de813783e35d4ac9aeae.js",
-    "service-worker.js": "/juichu/service-worker.js",
-    "static/css/main.f5497eb8.chunk.css.map": "/juichu/static/css/main.f5497eb8.chunk.css.map",
-    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/juichu/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
-    "static/media/inq.jpg": "/juichu/static/media/inq.83c5cda5.jpg",
-    "static/media/ntu.jpg": "/juichu/static/media/ntu.ce05ef2c.jpg",
-    "static/media/resume.pdf": "/juichu/static/media/resume.79e96d7a.pdf",
-    "static/media/robertchu.jpg": "/juichu/static/media/robertchu.7b3f721a.jpg"
+    "main.css": "/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/static/js/main.edf74df3.chunk.js",
+    "main.js.map": "/static/js/main.edf74df3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.19e99e5d.chunk.js": "/static/js/2.19e99e5d.chunk.js",
+    "static/js/2.19e99e5d.chunk.js.map": "/static/js/2.19e99e5d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cea4977738cbf6c8696d51b0d2a77223.js": "/precache-manifest.cea4977738cbf6c8696d51b0d2a77223.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
+    "static/media/inq.jpg": "/static/media/inq.83c5cda5.jpg",
+    "static/media/ntu.jpg": "/static/media/ntu.ce05ef2c.jpg",
+    "static/media/resume.pdf": "/static/media/resume.79e96d7a.pdf",
+    "static/media/robertchu.jpg": "/static/media/robertchu.7b3f721a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4467a7f.js",
+    "static/js/runtime-main.554504a0.js",
     "static/js/2.19e99e5d.chunk.js",
     "static/css/main.f5497eb8.chunk.css",
-    "static/js/main.5c416b8f.chunk.js"
+    "static/js/main.edf74df3.chunk.js"
   ]
 }
